@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text recognizer</string>
+    <string name="snap">SNAP</string>
+    <string name="recognize">Recognize</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+
+</resources>
